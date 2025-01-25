@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15.46 15.47">
+  <g id="icon-6">
+    <path d="m7.73,0C3.46,0,0,3.46,0,7.73s3.47,7.74,7.73,7.74,7.73-3.47,7.73-7.74S12,0,7.73,0Z" style="fill: #000; stroke-width: 0px;"/>
+    <path d="m8.06,13.23h-.66c-.6,0-1.09-.49-1.09-1.09V3.34c0-.6.49-1.09,1.09-1.09h.66c.6,0,1.09.49,1.09,1.09v8.8c0,.6-.49,1.09-1.09,1.09Z" style="fill: #fff; stroke-width: 0px;"/>
+    <path d="m7.86,10.15h-.27c-.25,0-.44-.2-.44-.44v-3.94c0-.25.2-.44.44-.44h.27c.25,0,.44.2.44.44v3.94c.01.24-.19.44-.44.44Z" style="fill: #000; stroke-width: 0px;"/>
+    <g>
+      <g>
+        <path d="m10.9,3.41c0,.72-.52.72-.52,1.44s.52.72.52,1.44-.52.72-.52,1.44.52.72.52,1.44-.52.72-.52,1.45.52.72.52,1.45" style="fill: none; stroke: #fff; stroke-linecap: round; stroke-linejoin: round; stroke-width: .5px;"/>
+        <path d="m12.41,5.69c0,.34-.25.34-.25.68s.25.34.25.68-.25.34-.25.68.25.34.25.68-.25.34-.25.69c0,.34.25.34.25.69" style="fill: none; stroke: #fff; stroke-linecap: round; stroke-linejoin: round; stroke-width: .5px;"/>
+      </g>
+      <g>
+        <path d="m5.08,3.41c0,.72-.52.72-.52,1.44s.52.72.52,1.44-.52.72-.52,1.44.52.72.52,1.44-.52.72-.52,1.45.52.72.52,1.45" style="fill: none; stroke: #fff; stroke-linecap: round; stroke-linejoin: round; stroke-width: .5px;"/>
+        <path d="m3.3,5.69c0,.34-.25.34-.25.68s.25.34.25.68-.25.34-.25.68.25.34.25.68-.25.34-.25.69c0,.34.25.34.25.69" style="fill: none; stroke: #fff; stroke-linecap: round; stroke-linejoin: round; stroke-width: .5px;"/>
+      </g>
+    </g>
+  </g>
+</svg>
